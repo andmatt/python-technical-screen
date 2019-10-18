@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andmatt/python-technical-screen/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andmatt/python-technical-screen/master?filepath=python-technical-screen.ipynb)
 
 # python-technical-screen
 
